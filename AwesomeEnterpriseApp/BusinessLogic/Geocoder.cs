@@ -53,7 +53,7 @@ namespace AwesomeEnterpriseApp.BusinessLogic
 
 	    public void GeoCode()
 	    {
-		    string mapskey = "AIzaSyA6Z7uI2MQ0FnCLre6YzAGCxeJpclDW8To";
+		    string mapskey = "REPLACE_WITH_YOUR_GOOGLE_MAPS_KEY";
 		    //setup a streamreader for retrieving data from Google.
 		    StreamReader sr = null;
 
